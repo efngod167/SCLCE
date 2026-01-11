@@ -51,13 +51,13 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <div class="type-title-sm">FPS</div>
+                            <p>{{ level.password || 'Any' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
-                    <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
-                    <p v-else-if="selected +1 <= 150"><strong>100%</strong> or better to qualify</p>
+                    <p v-if="selected + 1 <= 100"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
+                    <p v-else-if="selected +1 <= 100"><strong>100%</strong> or better to qualify</p>
                     <p v-else>This level does not accept new records.</p>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
@@ -71,7 +71,7 @@ export default {
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="hz">
-                                <p>{{ record.hz }}Hz</p>
+                                <p>{{ record.hz }}</p>
                             </td>
                         </tr>
                     </table>
@@ -100,28 +100,40 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        The difficulty must be almost all in the spam of the level. You are allowed to put a triple spike or a timing at the end or beginning.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        You are not allowed to use methods of spamming that require little effort for very high amounts of CPS, such as drag clicking, bolt clicking, alt jittering etc.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        There are no deco rules. This will change if the list gets spammed with lame challenges!
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        The lowest respawn time is 0.5 seconds.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        A maximum of 2 inputs are allowed when spamming.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Because of the changes to FPS in 2.2, Physics Bypass is NOT ALLOWED FOR FPS VALUES ABOVE 240. For levels already on the list you may beat them in 2.1 (you can use 59-360 FPS). Click Between Frames is allowed as long as you state that you used it since it is counted as its own FPS value. This means that you can only beat levels with CBF that were verified with CBF.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Intentional abuse to cap out CPS (up to 16.67cps) built into hardware is banned.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Rebinding keys is allowed as long as you use only 2 or less keys!
+                    </p>
+                    <p>
+                        Maximum of 4 fingers for all spam methods/levels.
+                    </p>
+                    <p>
+                        Stating hardware used is required for difficult completions.
+                    </p>
+                    <p>
+                        You cannot pause in a level unless it is after the spam.
+                    </p>
+                    <p>
+                        Your level must not contain too many elements from 2.2, such as triggers, shaders etc. The owners/mods will have a discussion about the level, and will determine if it uses too many 2.2 additions. If it uses too many 2.2 additions, we will alert the creator, and it will need a reverification. No questions asked.
                     </p>
                 </div>
             </div>
