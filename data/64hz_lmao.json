@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "fps": "64",
     "records": [
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=F7yR7-9RedQ",
+            "hz": "64",
+            "percent": 100
+        }
     ]
+
 }
