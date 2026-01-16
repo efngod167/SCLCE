@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "240/360",
     "records": [
+        {
+            "user": "AllOnRed.",
+            "link": "https://www.youtube.com/watch?v=M1auzAQtBOY",
+            "hz": "300",
+            "percent": 100
+        }
     ]
 }
