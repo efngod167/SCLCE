@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "fps": "240/360",
     "records": [
+        {
+            "user": "w3lnet",
+            "link": "https://youtu.be/jGJ7dBs6ejY",
+            "hz": "360",
+            "percent": 100
+        }
     ]
+
 }
