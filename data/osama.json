@@ -11,7 +11,9 @@
         {
             "user": "Frozix",
             "link": "https://www.youtube.com/watch?v=yLJrM2pwe4s",
-            "hz": "60"
+            "hz": "60",
+            "percent": 100
         }
     ]
 }
+
