@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">FPS</div>
-                            <p>{{ level.password || 'Any' }}</p>
+                            <p>{{ level.fps || 'Any' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
