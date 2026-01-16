@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "fps": "59",
     "records": [
+        {
+            "user": "pastelliano",
+            "link": "https://www.youtube.com/watch?v=blx7gemw8HQ",
+            "hz": "59",
+            "percent": 100
+        }
     ]
+
 }
