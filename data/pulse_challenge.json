@@ -4,6 +4,7 @@
     "author": "lexipwastaken",
     "creators": [],
     "verifier": "pixelfactorial",
+    "verification": "",
     "percentToQualify": "100",
     "fps": "60",
     "records": [
@@ -15,4 +16,5 @@
         }
     ]
 }
+
 
