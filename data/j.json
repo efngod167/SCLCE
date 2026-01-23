@@ -13,7 +13,15 @@
             "link": "https://www.youtube.com/watch?v=F7yR7-9RedQ",
             "hz": "60",
             "percent": 100
+        },
+        {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1449471023228522508/1449473025245319422/1464282078869983307",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 
 }
+
