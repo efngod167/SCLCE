@@ -1,12 +1,13 @@
 {
     "id": 111594799,
     "name": "Sakupen This Spam",
-    "author": "ClawBuckle",
-    "creators": [],
+    "author": "MrArmYT",
+    "creators": ["MrArmYT"],
     "verifier": "ClawBuckle",
     "verification": "https://youtu.be/UdOpMpjoxHA?",
     "percentToQualify": "100",
     "fps": "60",
     "records": [
     ]
+
 }
