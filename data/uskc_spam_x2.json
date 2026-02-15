@@ -1,7 +1,7 @@
 {
     "id": 95091199,
     "name": "meowpau chal easy",
-    "author": "[]me24345",
+    "author": ["me24345"],
     "creators": ["MeowPau"],
     "verifier": "[]me24345",
     "verification": "https://www.youtube.com/watch?v=1xFzcg8btTU",
@@ -9,4 +9,5 @@
     "fps": "240/360",
     "records": [
     ]
+
 }
