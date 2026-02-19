@@ -140,7 +140,7 @@ export default {
                         Every level included in this list must be entirely spam-based and originate from the game <a style="color: #03bafc" href="https://en.wikipedia.org/wiki/Geometry_Dash">Geometry Dash</a>. This list ranks the top 100 hardest spam challenges in the game and is strictly a classic spam challenge list, meaning all entries must rely on traditional, manual spamming skill. The difficulty of each level must reflect raw speed, control, consistency, and endurance using authentic classic spam mechanics.
                     </p>
                     <p>
-                        SCL (or SCLCE) is a fan-made project and is not affiliated with, endorsed by, or associated with RobTopGames AB® in any way, similar to other community-run lists such as TSL (The Shitty List) and TLL (The Layout List).
+                        SCLCE (or Spam Challenge List: Classic Edition) is a fan-made project and is not affiliated with, endorsed by, or associated with RobTopGames AB® in any way. It is also not affiliated with, connected to, or endorsed by the official SCL (The Spam Challenge List). This project operates independently, similar to other community-run lists such as TSL (The Shitty List) and TLL (The Layout List).
                     </p>
                 </div>
             </div>
