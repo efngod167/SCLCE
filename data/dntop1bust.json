@@ -1,13 +1,14 @@
 {
     "id": 116491375,
     "name": "dntop1bust challenge",
-    "author": "galbeni7",
-    "creators": [],
+    "author": "babseed",
+    "creators": ["galbeni7"],
     "verifier": "aelzfr",
-    "verification": "",
+    "verification": "https://youtu.be/eMC0N9uiV98?t=6",
     "percentToQualify": "100",
     "fps": "80",
     "records": [
     ]
 
 }
+
