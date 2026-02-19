@@ -135,6 +135,13 @@ export default {
                     <p>
                         Your level must not contain too many elements from 2.2, such as triggers, shaders etc. The owners/mods will have a discussion about the level, and will determine if it uses too many 2.2 additions. If it uses too many 2.2 additions, we will alert the creator, and it will need a reverification. No questions asked.
                     </p>
+                    <h3>Marginal Note</h3>
+                    <p>
+                        Every level included in this list must be entirely spam-based and originate from the game <a style="color: #03bafc" href="https://en.wikipedia.org/wiki/Geometry_Dash">Geometry Dash</a>. This list ranks the top 100 hardest spam challenges in the game and is strictly a classic spam challenge list, meaning all entries must rely on traditional, manual spamming skill. The difficulty of each level must reflect raw speed, control, consistency, and endurance using authentic classic spam mechanics.
+                    </p>
+                    <p>
+                        SCL (or SCLCE) is a fan-made project and is not affiliated with, endorsed by, or associated with RobTopGames AB® in any way, similar to other community-run lists such as TSL (The Shitty List) and TLL (The Layout List).
+                    </p>
                 </div>
             </div>
         </main>
