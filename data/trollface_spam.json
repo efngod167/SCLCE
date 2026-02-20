@@ -1,8 +1,8 @@
 {
     "id": 116490879,
     "name": "trollface spam",
-    "author": "pixelfactorial",
-    "creators": [],
+    "author": "babseed",
+    "creators": ["pixelfactorial"],
     "verifier": "pixelfactorial",
     "verification": "https://youtu.be/6mDkXMtSYXw",
     "percentToQualify": "100",
@@ -11,4 +11,5 @@
     ]
 
 }
+
 
