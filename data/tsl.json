@@ -1,8 +1,8 @@
 {
     "id": 66254560,
     "name": "Triple Spam Legend",
-    "author": "NXISE",
-    "creators": [],
+    "author": "BensonGD",
+    "creators": ["NXISE, BensonGD"],
     "verifier": "BensonGD",
     "verification": "https://www.youtube.com/watch?v=TfQIXYc97_E",
     "percentToQualify": "100",
@@ -24,4 +24,5 @@
     ]
 
 }
+
 
