@@ -1,12 +1,13 @@
 {
     "id": 129384374,
     "name": "Frisk easy clear",
-    "author": "Liknod",
-    "creators": [],
+    "author": "GMDFriskovich",
+    "creators": ["Liknod"],
     "verifier": "GMDFriskovich",
     "verification": "https://youtu.be/2hYePri_KSU",
     "percentToQualify": "100",
     "fps": "60",
     "records": [
     ]
+
 }
