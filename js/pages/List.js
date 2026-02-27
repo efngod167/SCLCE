@@ -26,7 +26,7 @@ export default {
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
                             <p v-if="i + 1 <= 100" class="type-label-lg">#{{ i + 1 }}</p>
-                            <p v-else class="type-label-lg">NLW</p>
+                            <p v-else class="type-label-lg">Legacy</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
                             <button @click="selected = i">
@@ -118,7 +118,7 @@ export default {
                         Because of the changes to FPS in 2.2, Physics Bypass is NOT ALLOWED FOR FPS VALUES ABOVE 240. For levels already on the list you may beat them in 2.1 (you can use 59-360 FPS). If you don't know how to revert to 2.1, you may click on <a style="color: #03bafc" href="https://www.youtube.com/watch?v=JMBn04BWTJc">this tutorial</a> for more understanding. Click Between Frames is however, not allowed.
                     </p>
                     <p>
-                        Intentional abuse to cap out CPS (up to 16.67cps) built into hardware is banned.
+                        Intentional abuse to cap out CPS built into hardware is banned.
                     </p>
                     <p>
                         Rebinding keys is allowed as long as you use only 2 or less keys!
