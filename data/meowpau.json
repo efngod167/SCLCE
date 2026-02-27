@@ -8,7 +8,14 @@
     "percentToQualify": "100",
     "fps": "100",
     "records": [
+        {
+            "user": "pixelfactorial",
+            "link": "https://discord.com/channels/1449471023228522508/1449473025245319422/1475764004520722484",
+            "hz": "100",
+            "percent": 100
+        }
     ]
 
 }
+
 
