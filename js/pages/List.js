@@ -44,15 +44,15 @@ export default {
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>
-                            <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
+                            <p><b>{{ score(selected + 1, 100, level.percentToQualify) }}</b></p>
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
-                            <p>{{ level.id }}</p>
+                            <p><b>{{ level.id }}</b></p>
                         </li>
                         <li>
                             <div class="type-title-sm">FPS</div>
-                            <p>{{ level.fps || 'Any' }}</p>
+                            <p><b>{{ level.fps || 'Any' }}</b></p>
                         </li>
                     </ul>
                     <h2>Records</h2>
