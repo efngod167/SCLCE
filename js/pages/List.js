@@ -98,7 +98,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Rules</h3>
                     <p>
                         <b>1. The difficulty must be almost all in the spam of the level. You are allowed to put a triple spike or a timing at the end or beginning.</b>
                     </p>
