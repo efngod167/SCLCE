@@ -100,40 +100,40 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        The difficulty must be almost all in the spam of the level. You are allowed to put a triple spike or a timing at the end or beginning.
+                        <b>1. The difficulty must be almost all in the spam of the level. You are allowed to put a triple spike or a timing at the end or beginning.</b>
                     </p>
                     <p>
-                        You are not allowed to use methods of spamming that require little effort for very high amounts of CPS, such as drag clicking, bolt clicking, alt jittering etc.
+                        <b>2. You are not allowed to use methods of spamming that require little effort for very high amounts of CPS, such as drag clicking, bolt clicking, alt jittering etc.</b>
                     </p>
                     <p>
-                        There are no deco rules. This will change if the list gets spammed with lame challenges!
+                        <b>3. There are no deco rules. This will change if the list gets spammed with lame challenges!</b>
                     </p>
                     <p>
-                        The lowest respawn time is 0.5 seconds.
+                        <b>4. The lowest respawn time is 0.5 seconds.</b>
                     </p>
                     <p>
-                        A maximum of 2 inputs are allowed when spamming.
+                        <b>5. A maximum of 2 inputs are allowed when spamming.</b>
                     </p>
                     <p>
-                        Because of the changes to FPS in 2.2, Physics Bypass is NOT ALLOWED FOR FPS VALUES ABOVE 240. For levels already on the list you may beat them in 2.1 (you can use 59-360 FPS). If you don't know how to revert to 2.1, you may click on <a style="color: #03bafc" href="https://www.youtube.com/watch?v=JMBn04BWTJc">this tutorial</a> for more understanding. Click Between Frames is however, not allowed.
+                        <b>6. Because of the changes to FPS in 2.2, Physics Bypass is NOT ALLOWED FOR FPS VALUES ABOVE 240. For levels already on the list you may beat them in 2.1 (you can use 59-360 FPS). If you don't know how to revert to 2.1, you may click on <a style="color: #03bafc" href="https://www.youtube.com/watch?v=JMBn04BWTJc">this tutorial</a> for more understanding. Click Between Frames is however, not allowed.</b>
                     </p>
                     <p>
-                        Intentional abuse to cap out CPS built into hardware is banned.
+                        <b>7. Intentional abuse to cap out CPS built into hardware is banned.</b>
                     </p>
                     <p>
-                        Rebinding keys is allowed as long as you use only 2 or less keys!
+                        <b>8. Rebinding keys is allowed as long as you use only 2 or less keys!</b>
                     </p>
                     <p>
-                        Maximum of 4 fingers for all spam methods/levels.
+                        <b>9. Maximum of 4 fingers for all spam methods/levels.</b>
                     </p>
                     <p>
-                        Stating hardware used is required for difficult completions. Rapid Trigger must be off.
+                        <b>10. Stating hardware used is required for difficult completions. Rapid Trigger must be off.</b>
                     </p>
                     <p>
-                        You cannot pause in a level unless it is after the spam.
+                        <b>11. You cannot pause in a level unless it is after the spam.</b>
                     </p>
                     <p>
-                        Your level must not contain too many elements from 2.2, such as triggers, shaders etc. The owners/mods will have a discussion about the level, and will determine if it uses too many 2.2 additions. If it uses too many 2.2 additions, we will alert the creator, and it will need a reverification. No questions asked.
+                        <b>12. Your level must not contain too many elements from 2.2, such as triggers, shaders etc. The owners/mods will have a discussion about the level, and will determine if it uses too many 2.2 additions. If it uses too many 2.2 additions, we will alert the creator, and it will need a reverification. No questions asked.</b>
                     </p>
                     <h3>Marginal Note</h3>
                     <p>
