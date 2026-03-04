@@ -62,16 +62,16 @@ export default {
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
-                                <p>{{record.percent||100}}%</p>
+                                <p><b>{{record.percent||100}}%</b></p>
                             </td>
                             <td class="user">
-                                <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
+                                <a :href="record.link" target="_blank" class="type-label-lg"><b>{{ record.user }}</b></a>
                             </td>
                             <td class="mobile">
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="hz">
-                                <p>{{ record.hz }}fps</p>
+                                <p><b>{{ record.hz }}fps</b></p>
                             </td>
                         </tr>
                     </table>
