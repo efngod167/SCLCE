@@ -2,7 +2,7 @@
     "id": 70962373,
     "name": "ip de lux",
     "author": "ElEeek",
-    "creators": [],
+    "creators": ["vertxgo, ElEeek"],
     "verifier": "ElEeek",
     "verification": "https://www.youtube.com/watch?v=yxOoSIembhI",
     "percentToQualify": "100",
@@ -29,6 +29,7 @@
     ]
 
 }
+
 
 
 
