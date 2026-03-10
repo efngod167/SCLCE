@@ -8,7 +8,13 @@
     "percentToQualify": "100",
     "fps": "60",
     "records": [
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/MXOactAQzX0",
+            "hz": "60",
+            "percent": 100
+        }
     ]
-
 }
+
 
