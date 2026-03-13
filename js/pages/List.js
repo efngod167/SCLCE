@@ -127,7 +127,7 @@ export default {
                         <b>9. Maximum of 4 fingers for all spam methods/levels.</b>
                     </p>
                     <p>
-                        <b>10. Stating hardware used is required for difficult completions. Rapid Trigger must be off.</b>
+                        <b>10. Stating hardware used is required for difficult completions.</b>
                     </p>
                     <p>
                         <b>11. You cannot pause in a level unless it is after the spam.</b>
