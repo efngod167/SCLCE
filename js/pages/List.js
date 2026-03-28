@@ -142,6 +142,9 @@ export default {
                     <p>
                         SCLCE (or Spam Challenge List: Classic Edition) is a fan-made project and is not affiliated with, endorsed by, or associated with RobTopGames AB® in any way. This project operates independently, similar to other community-run lists such as TSL (The Shitty List) and TLL (The Layout List). It is also an unofficial project related to SCL, and is not affiliated with, connected to, or endorsed by that list as well. Furthermore, this list was created out of appreciation for the spam challenge community and as a way to celebrate and preserve the classic style of spam gameplay. Inspired by existing lists such as SCL, its eariler version (<a style="color: #03bafc" href="https://spamlist.pages.dev">spamlist.pages.dev</a>) and the archive (<a style="color: #03bafc" href="http://spamchallengesarchive.pages.dev">spamchallengesarchive.pages.dev</a>), this project aims to provide a dedicated space for traditional, manual spam challenges while maintaining fairness, authenticity, and respect for the broader community.
                     </p>
+                    <p>
+                        This project is dedicated to and credits all those who have contributed to the history and development of the list, including its original creators, previous owners, current maintainers, former staff members, and long-time community contributors. Their efforts, creativity, and dedication have played a significant role in shaping the list and the community around it.
+                    </p>
                 </div>
             </div>
         </main>
