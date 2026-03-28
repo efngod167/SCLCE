@@ -2,7 +2,7 @@
     "id": 100830194,
     "name": "spotify",
     "author": "PaperGuy1",
-    "creators": [],
+    "creators": ["DubbyBall"],
     "verifier": "DubbyBall",
     "verification": "https://www.youtube.com/watch?v=WaEGp2gb1uc",
     "percentToQualify": "100",
