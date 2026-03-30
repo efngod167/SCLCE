@@ -140,17 +140,17 @@ export default {
                         Every spam-based level included in this list must originate from the game <a style="color: #03bafc" href="https://en.wikipedia.org/wiki/Geometry_Dash">Geometry Dash</a>. This list ranks the top 100 hardest spam challenges in the game and is strictly a classic edition of SCL (Spam Challenge List), meaning all entries must rely on traditional, manual spamming skill. The difficulty of each level must reflect raw speed, control, consistency, and endurance using authentic classic spam mechanics.
                     </p>
                     <p>
-                        SCLCE (or Spam Challenge List: Classic Edition) is a fan-made project and is not affiliated with, endorsed by, or associated with RobTopGames AB® in any way. This project operates independently, similar to other community-run lists such as TSL (The Shitty List) and TLL (The Layout List). It is also an unofficial project related to SCL, and is not affiliated with, connected to, or endorsed by that list as well. Furthermore, this list was created out of appreciation for the spam challenge community and as a way to celebrate and preserve the classic style of spam gameplay. Inspired by existing lists such as SCL, its eariler version (<a style="color: #03bafc" href="https://spamlist.pages.dev">spamlist.pages.dev</a>) and the archive (<a style="color: #03bafc" href="http://spamchallengesarchive.pages.dev">spamchallengesarchive.pages.dev</a>), this project aims to provide a dedicated space for traditional, manual spam challenges while maintaining fairness, authenticity, and respect for the broader community.
+                        SCL:CE (or Spam Challenge List: Classic Edition) is a fan-made project and is not affiliated with, endorsed by, or associated with RobTopGames AB® in any way. This project operates independently, similar to other community-run lists such as TSL (The Shitty List) and TLL (The Layout List). It is also an unofficial project related to SCL, and is not affiliated with, connected to, or endorsed by that list as well. Furthermore, this list was created out of appreciation for the spam challenge community and as a way to celebrate and preserve the classic style of spam gameplay. Inspired by existing lists such as SCL, its eariler version (<a style="color: #03bafc" href="https://spamlist.pages.dev">spamlist.pages.dev</a>) and the archive (<a style="color: #03bafc" href="http://spamchallengesarchive.pages.dev">spamchallengesarchive.pages.dev</a>), this project aims to provide a dedicated space for traditional, manual spam challenges while maintaining fairness, authenticity, and respect for the broader community.
                     </p>
                     <p>
                         This project is dedicated to and credits all those who have contributed to the history and development of the list, including its original creators, previous owners, current maintainers, former staff members & long-time community contributors. Their efforts, creativity and dedication have played a significant role in shaping the list, including the community around it.
                     </p>
                     <h3>Cascading Menu Links</h3>
                     <p>
-                        SCLCE Old Version: <a style="color: #03bafc" href="https://docs.google.com/document/d/1jIRvfd_ArxB78tB8J0Gg8dAT2462sS_jPabD4W3l-2Q/edit?tab=t.0">SCL CLASSIC</a>
+                        SCL:CE Old Version: <a style="color: #03bafc" href="https://docs.google.com/document/d/1jIRvfd_ArxB78tB8J0Gg8dAT2462sS_jPabD4W3l-2Q/edit?tab=t.0">SCL CLASSIC</a>
                     </p>
                     <p>
-                        SCLCE Old Leaderboard: <a style="color: #03bafc" href="https://docs.google.com/spreadsheets/d/1UOsbTMgynvy3G62fCRzP-bwbWegdGt4RvB5PlHM-lOU/edit?gid=0#gid=0">SCL:CE LEADERBOARD</a>
+                        SCL:CE Old Leaderboard: <a style="color: #03bafc" href="https://docs.google.com/spreadsheets/d/1UOsbTMgynvy3G62fCRzP-bwbWegdGt4RvB5PlHM-lOU/edit?gid=0#gid=0">SCL:CE LEADERBOARD</a>
                     </p>
                 </div>
             </div>
