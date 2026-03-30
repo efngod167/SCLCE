@@ -145,6 +145,13 @@ export default {
                     <p>
                         This project is dedicated to and credits all those who have contributed to the history and development of the list, including its original creators, previous owners, current maintainers, former staff members & long-time community contributors. Their efforts, creativity and dedication have played a significant role in shaping the list, including the community around it.
                     </p>
+                    <h3>Cascading Menu Links</h3>
+                    <p>
+                        SCLCE Old Version: <a style="color: #03bafc" href="https://docs.google.com/document/d/1jIRvfd_ArxB78tB8J0Gg8dAT2462sS_jPabD4W3l-2Q/edit?tab=t.0">SCL CLASSIC</a>
+                    </p>
+                    <p>
+                        SCLCE Old Leaderboard: <a style="color: #03bafc" href="https://docs.google.com/spreadsheets/d/1UOsbTMgynvy3G62fCRzP-bwbWegdGt4RvB5PlHM-lOU/edit?gid=0#gid=0">SCL:CE LEADERBOARD</a>
+                    </p>
                 </div>
             </div>
         </main>
